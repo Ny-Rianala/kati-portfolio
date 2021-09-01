@@ -360,7 +360,7 @@ const Projects = ({ content }) => {
           rel="nofollow noopener noreferrer"
           aria-label="External Link"
         >
-          <Button type="button" textAlign="center" center>
+          <Button type="" textAlign="center" center>
             {sectionDetails.frontmatter.buttonText}
           </Button>
         </motion.a>

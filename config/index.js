@@ -57,26 +57,14 @@ module.exports = {
   // Medium, GitHub, LinkedIn, XING, Behance, E-Mail
   socialMedia: [
     {
-      name: "Linkedin",
-      url: "https://www.linkedin.com/in/konstantin-muenster/",
-    },
-    {
-      name: "Medium",
-      url: "https://konstantinmuenster.medium.com/",
-    },
-    {
       name: "Github",
       url:
         "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
     },
     {
-      name: "Behance",
+      name: "Email",
       url: "https://www.behance.net/konstanmnster",
     },
-    // {
-    //   name: "Mail",
-    //   url: "mailto:mail@konstantin.digital",
-    // },
   ],
 
   //-- NAVIGATION SETTINGS -----
