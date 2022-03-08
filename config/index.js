@@ -2,7 +2,7 @@ module.exports = {
   //-- SITE SETTINGS -----
   author: "@konstantinmuenster",
   siteTitle: "Gatsby Starter Portfolio Minimal",
-  siteShortTitle: "Gatsby", // Used as logo text in header, footer, and splash screen
+  siteShortTitle: "Kati", // Used as logo text in header, footer, and splash screen
   siteDescription:
     "A modern one-page portfolio with a clean yet expressive design.",
   siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
@@ -58,8 +58,7 @@ module.exports = {
   socialMedia: [
     {
       name: "Github",
-      url:
-        "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
+      url: "https://github.com/Ny-Rianala",
     },
     {
       name: "Email",
